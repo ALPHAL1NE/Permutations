@@ -1,0 +1,32 @@
+# Compiled class files
+*.class
+
+# Logs and temp files
+*.log
+*.tmp
+
+# IntelliJ / IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# build folders
+target/
+build/
+
+# macOS files
+.DS_Store
+
+# gradle
+.gradle/
+build/
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+dependency-reduced-pom.xml
+release.properties
